@@ -1,0 +1,5 @@
+.venv/
+.DS_Store
+
+# yolo files
+yolov8n-pose.pt
